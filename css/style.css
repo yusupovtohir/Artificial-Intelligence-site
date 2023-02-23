@@ -1,0 +1,31 @@
+
+
+
+.nav-bg {
+    background-color: #0a121f;
+}
+
+#home {
+    background-color: #08101e;
+    height: 700px;
+}
+
+#information,#clients-me {
+    background-color: #020a18;
+    height: 700px;
+}
+
+.image img {
+    width: 600px;
+    height: 500px;
+}
+
+.card-custom {
+    background-color: #0F1724;
+    color: #B8BABE;
+}
+
+#footer {
+    background-color: #08101e;
+    height: 400px;
+}
